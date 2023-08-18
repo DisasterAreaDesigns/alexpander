@@ -1,0 +1,13 @@
+ALEXPANDER Bill of Materials
+
+Materials:
+Enclosure		Hammond 1590B or equivalent
+J1		TRS / Stereo 1/4" jack
+R1  	100 ohm 5% or better, 1/8W or higher
+R2		220 ohm 5% or better, 1/8W or higher
+R3*		560 ohm 5% or better, 1/8W or higher
+
+SWITCH A, B, C		Single-pole, single-throw momentary normally-open foot switch
+SWITCH D*					Single-pole, single-throw momentary normally-open foot switch
+
+Expander may be built with any number of switches from 1-4.  Scroll mode requires the use of switches A and C at a minimum, ABC recommended for normal use.  Scroll mode does not support switch D.  Switch D will select preset 4 in preset mode.
